@@ -9,8 +9,10 @@ License
 
 # Installation 
 To install this application, clone this repo from the link:
-[
-](https://github.com/Sudarshans30/ecommerce-backend)
+
+(https://github.com/Sudarshans30/ecommerce-backend)
+
+
 Once downloaded, install its dependencies by navigating to the app's directory by typing:
 
 npm install
