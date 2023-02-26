@@ -20,7 +20,7 @@ This command will install the following packages: sequelize, express, dotenv, an
 
 A database schema and a seed file are included in the repo. To load the schema, use mysql in the command line and type:
 
-mysql> source db/schema.sql
+mysql> source schema.sql
 mysql> exit
 
 
