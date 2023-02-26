@@ -22,9 +22,12 @@ A database schema and a seed file are included in the repo. To load the schema, 
 
 mysql> source db/schema.sql
 mysql> exit
-To seed the database, type:
 
+
+To seed the database, type:
 node seeds/index.js
+
+
 You will need to add a .env file specifying your MYSQL username and password.
 
 
