@@ -3,7 +3,9 @@ The goal of this project is to manage a database of products and tags through ap
 
 # Table of Contents
 Installation
+
 Usage
+
 License
 
 
