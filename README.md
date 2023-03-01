@@ -3,8 +3,8 @@ The goal of this project is to manage a database of products and tags through ap
 
 
 # walkthrough video
-https://drive.google.com/file/d/1Xf8iuuEw7_7g3zBVrEtxyTnpZWYS5z0J/view
 
+[Untitled_ Mar 1, 2023 8_29 PM.webm](https://user-images.githubusercontent.com/117637113/222100231-b758fced-18f4-4f55-8972-d98fe0091e13.webm)
 
 
 # Table of Contents
