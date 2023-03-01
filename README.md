@@ -1,6 +1,12 @@
 # ecommerce-backend
 The goal of this project is to manage a database of products and tags through api calls.
 
+
+# walkthrough video
+https://drive.google.com/file/d/1Xf8iuuEw7_7g3zBVrEtxyTnpZWYS5z0J/view
+
+
+
 # Table of Contents
 Installation
 
